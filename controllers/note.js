@@ -1,3 +1,5 @@
+import Note from "../modules/Note.js";
+
 export const getNotes = (req, res) => {
   res.send("home page ");
 };
